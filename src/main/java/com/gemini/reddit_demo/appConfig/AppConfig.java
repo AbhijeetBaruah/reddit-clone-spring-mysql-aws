@@ -12,5 +12,5 @@ import org.springframework.context.annotation.Configuration;
 @Data
 public class AppConfig {
 
-    private String url="localhost:8080";
+    private String url="localhost:8080";//address where the jar file is running.
 }
